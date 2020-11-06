@@ -1,5 +1,7 @@
 # ArrayList.java
+
 import java.util.*;
+
 public class OurArrayList {
 
 	private int numElements;
